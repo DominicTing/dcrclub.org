@@ -1,2 +1,2 @@
 # dcrclub.org
-Decred中文社区
+Decred中文社区(beta)

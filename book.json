@@ -1,0 +1,27 @@
+{
+    "bookname": "DecredChineseClub",
+    "title" : "Decred中文社区",
+    "author" : "DecredChineseClub",
+    "description" : "Decred项目中文社区",
+    "language" : "zh-hans",
+    "catalog": "all",
+    "plugins" : ["favicon","search-plus","-sharing", "sharing-plus","sitemap-general","theme-comscore"],
+    "pluginsConfig": {
+          "sharing": {
+              "facebook": true,
+              "qq": true,
+              "twitter": true,
+              "weibo": true,
+              "all": [
+                  "facebook","twitter","weibo","qq"
+              ]
+          },
+          "favicon": {
+              "shortcut": "images/favicon.ico",
+              "bookmark": "images/favicon.ico"
+          },
+          "sitemap-general": {
+              "prefix": "http://blog.dcrclub.org/"
+          }
+      }
+  }
