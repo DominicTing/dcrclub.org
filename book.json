@@ -5,7 +5,7 @@
     "description" : "Decred项目中文社区",
     "language" : "zh-hans",
     "catalog": "all",
-    "plugins" : ["favicon","search-plus","-sharing", "sharing-plus","sitemap-general","theme-comscore"],
+    "plugins" : ["favicon","search-plus","-sharing", "sharing-plus","sitemap-general","theme-comscore","splitter","tbfed-pagefooter"],
     "pluginsConfig": {
           "sharing": {
               "facebook": true,
@@ -22,6 +22,13 @@
           },
           "sitemap-general": {
               "prefix": "http://blog.dcrclub.org/"
-          }
+          },
+          "pluginsConfig": {
+            "tbfed-pagefooter": {
+                "copyright":"Copyright & Decred中文社区",
+                "modify_label": "发布时间：",
+                "modify_format": "YYYY-MM-DD HH:mm:ss"
+            }
+        }
       }
   }
