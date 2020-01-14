@@ -1,6 +1,6 @@
 # Decred 中文社区
 ### Decred官方钱包 
-Decred官方GUI钱包名称为Decrediton，当前版本为v1.5.0 [开源代码](https://github.com/decred/decrediton)，Decrediton基于node.js和Electron开发实现跨平台。
+Decred官方GUI钱包名称为Decrediton，当前版本为v1.5.0 [开源代码](https://github.com/decred/decrediton)，Decrediton基于node.js和Electron开发实现跨平台。Decrediton官方钱包是全节点钱包支持收发DCR货币、链上投票、提案（链下）投票、验证和签名消息以及未来其他功能。
 
 Decred官方CLI钱包主要程序为dcrwallet [具体使用教程](https://docs.decred.org/wallets/cli/cli-installation/)
 
