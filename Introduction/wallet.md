@@ -15,7 +15,7 @@ Decred官方CLI钱包主要程序为dcrd、dcrwallet、dcrcli、dcrlnd 和dcrlnc
 > decrediton-v1.5.0.dmg <img width="20" src="./wallet/apple.svg">
 [下载地址](https://github.com/decred/decred-binaries/releases/download/v1.5.0/decrediton-v1.5.0.dmg)
 
-> decrediton-v1.5.0.tar.gz <img width="20" src="./decrediton/linux.svg">
+> decrediton-v1.5.0.tar.gz <img width="20" src="./wallet/linux.svg">
 [下载地址](https://github.com/decred/decred-binaries/releases/download/v1.5.0/decrediton-v1.5.0.tar.gz)
 
 #### 命令行客户端（dcrd dcrwallet dcrcli dcrlnd dcrlncli等）
