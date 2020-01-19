@@ -1,7 +1,7 @@
 # Summary
 * [介绍](README.md)
   * [什么是 Decred(DCR)](Introduction/what_is_decred.md)
-  * [官方钱包](Introduction/decrediton.md)
+  * [官方钱包](Introduction/wallet.md)
   * [第三方支持钱包](Introduction/thirdparty_wallet.md)
   * [交易所及换币平台](Introduction/exchange_platform.md)
 * [教程](Tutorial/README.md)
